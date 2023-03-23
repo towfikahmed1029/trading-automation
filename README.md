@@ -1,1 +1,1 @@
-# trading-automation
+# trade
